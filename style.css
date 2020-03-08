@@ -1,0 +1,89 @@
+body{
+	margin: 0px 0px 0px 0px;
+	background-color: #000000;
+	color:#DECECE; 
+	font-family: arial;
+}
+
+#logo{
+	padding-top: 20px;
+	float: center;
+	max-height: 150px;
+	max-width: 150px;
+}
+
+header{
+	max-height: 450px;
+	text-align: center;
+	margin : 100px 50px;
+	font-size-adjust: 26px.
+}
+
+main{
+	
+	margin-top: 145px;
+}
+
+#pip{
+	padding-top:7px 
+	font-size:14px;
+
+}
+
+.ctaButton{
+	color: #DECECE;
+	border-radius: 0.5em 0.5em 0.5em 0.5em;
+	display: inline-block;
+	font-family:tahoma,arial,helvetica,sans-serif;
+	background-color: #BF1A1B ;
+	font-size: 14PX;
+	font-weight: bold;
+	margin:0px 650px;
+	padding: 7px 9px;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	
+	
+	
+}
+img{
+	max-width: 150px;
+	max-height:150px;
+}
+#sec3 ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#sec3 li{
+	margin-left: 90px; 
+
+}
+#sec3 ul li{
+	display: block;
+	float: left;
+	text-align: left center;
+	
+}
+
+
+#sec1{
+	margin: 150px 150px 70px 30px;
+	display: inline-block;
+}
+
+#sec2{
+	margin: 150px 150px 70px 30px;
+	display: inline-block;
+	text-decoration: none;
+}
+
+
+#sec3{
+	margin: 150px 150px 70px 30px;
+	display: inline-block;
+}
+#tit4{
+	padding-top: 50PX;
+}
